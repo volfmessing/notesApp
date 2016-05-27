@@ -1,0 +1,17 @@
+{
+  "name": "notesApp",
+  "homepage": "https://github.com/volfmessing/notesApp",
+  "authors": [
+    "volfmessing <vitalii.khodak@gmail.com>"
+  ],
+  "description": "AngularJS labguide implementation",
+  "main": "index.html",
+  "license": "GNU",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
